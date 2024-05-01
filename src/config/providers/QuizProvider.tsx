@@ -37,7 +37,8 @@ export const QuizContext = createContext<QuizContextProps>({
 });
 
 const QuizProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
-    const storedQuiz = localStorage.getItem('quiz');
+    const isBrowser = typeof window !== 'undefined';
+    const storedQuiz = isBrowser ? localStorage.getItem('quiz') : null;
     const initialQuiz = storedQuiz ? JSON.parse(storedQuiz) : defaultQuiz;
     const [quiz, setQuiz] = useState<Quiz>(initialQuiz);
     const router = useRouter()
