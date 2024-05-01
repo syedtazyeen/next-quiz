@@ -1,0 +1,63 @@
+[
+    {
+      "id": "c2e31865-7a7f-4c7e-bf02-1b65de127c9d",
+      "question": "What does CSS stand for?",
+      "options": ["Cascading Style Sheets", "Creative Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+      "answer": 0
+    },
+    {
+      "id": "73d00d24-b4d8-4ee7-89d1-8f5d4267a16b",
+      "question": "Which HTML tag is used to define an unordered list?",
+      "options": ["<ul>", "<ol>", "<li>", "<dl>"],
+      "answer": 0
+    },
+    {
+      "id": "27aa29fd-dac6-4e2d-8f47-6bcb81cda5a3",
+      "question": "Which of the following is not a programming language?",
+      "options": ["HTML", "CSS", "JavaScript", "HTTP"],
+      "answer": 3
+    },
+    {
+      "id": "ba61c39c-66fb-43e0-99af-70032799e24e",
+      "question": "What is the purpose of JavaScript?",
+      "options": ["To style web pages", "To create dynamic and interactive web pages", "To define the structure of a webpage", "To manage databases"],
+      "answer": 1
+    },
+    {
+      "id": "a5ab995b-7853-4a1d-95a4-3b7e21612129",
+      "question": "Which of the following is not a valid HTTP status code?",
+      "options": ["200", "404", "300", "503"],
+      "answer": 2
+    },
+    {
+      "id": "0e4aaf44-4e06-448f-9295-49d2f8192ad2",
+      "question": "What is the purpose of the <canvas> element in HTML?",
+      "options": ["To display images", "To draw graphics", "To play audio files", "To create forms"],
+      "answer": 1
+    },
+    {
+      "id": "d5e3430c-4dd1-4c46-8261-344aebde9441",
+      "question": "Which of the following is a popular front-end framework for web development?",
+      "options": ["Angular", "Node.js", "Express", "Django"],
+      "answer": 0
+    },
+    {
+      "id": "b3b7291f-f8c1-4a4b-bf8b-43322b52f18e",
+      "question": "What does AJAX stand for?",
+      "options": ["Asynchronous JavaScript and XML", "Advanced JavaScript and XML", "Asynchronous Java and XML", "Advanced Java and XML"],
+      "answer": 0
+    },
+    {
+      "id": "992e59e2-9466-4d09-bad5-92c6e7dc3d6f",
+      "question": "What is the purpose of a CSS framework?",
+      "options": ["To make web development faster and easier", "To restrict the layout possibilities", "To complicate the development process", "To replace HTML"],
+      "answer": 0
+    },
+    {
+      "id": "d50b2b7c-57fc-42a1-8c5b-409bd41f9a51",
+      "question": "What does SEO stand for?",
+      "options": ["Search Engine Optimization", "Social Engine Operation", "Site Engineering Options", "Systematic Enterprise Operations"],
+      "answer": 0
+    }
+  ]
+  
